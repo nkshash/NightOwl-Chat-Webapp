@@ -14,7 +14,7 @@ Nightowl is a real-time chat application developed using React, Redux, and Socke
 
 ## Demo Video
 
-Check out the project in action [here](link-to-your-demo-video).
+Check out the project in action [here](https://www.youtube.com/watch?v=gCsgniy8RxU).
 
 ## Installation
 
